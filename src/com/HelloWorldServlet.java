@@ -1,4 +1,4 @@
-package com.javahelps.helloworld;
+package com.helloworld;
 
 import java.io.IOException;
 import java.io.PrintWriter;
